@@ -1,2 +1,3 @@
-Streamlit
-Joblib
+streamlit
+joblib
+scikit-learn
